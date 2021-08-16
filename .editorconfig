@@ -1,0 +1,4 @@
+root=true
+
+[*.template.php]
+indent_size=2
